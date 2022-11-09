@@ -16,5 +16,4 @@ class NewTaskViewController: UITableViewController {
         
     }
 }
-// some new line
-// another line
+
